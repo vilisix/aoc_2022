@@ -12,6 +12,7 @@ public class InputReader {
         ArrayList<String> list = new ArrayList<>();
 
         InputStream is = InputReader.class.getClassLoader().getResourceAsStream(input_resource);
+        assert is != null;
         try (InputStreamReader streamReader =
                      new InputStreamReader(is, StandardCharsets.UTF_8);
              BufferedReader reader = new BufferedReader(streamReader)) {
