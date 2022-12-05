@@ -1,6 +1,6 @@
 package vilisix.solutions.Day4;
 
-import vilisix.puzzles.InputReader;
+import vilisix.reader.InputReader;
 
 import java.util.ArrayList;
 

@@ -1,5 +1,5 @@
 package vilisix.solutions.Day5;
-import vilisix.puzzles.InputReader;
+import vilisix.reader.InputReader;
 import java.util.ArrayList;
 
 public class Day5 {
