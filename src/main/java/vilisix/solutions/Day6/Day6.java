@@ -1,11 +1,9 @@
 package vilisix.solutions.Day6;
 
 import vilisix.reader.InputReader;
-import vilisix.solutions.Day5.Day5;
 
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.HashSet;
 
 public class Day6 {
 
