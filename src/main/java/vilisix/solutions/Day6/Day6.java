@@ -1,7 +1,5 @@
 package vilisix.solutions.Day6;
-
 import vilisix.reader.InputReader;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 
